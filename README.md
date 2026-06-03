@@ -100,22 +100,7 @@ Sin embargo, diseñé este tablero para que los tomadores de decisiones no ignor
 - El riesgo por estrés hídrico.
 - El aumento preocupante en la informalidad laboral.
 
-Implementar las líneas de acción integradas en los paneles de insights del dashboard será crucial para la estrategia municipal 2026-2028.
-
-## 📁 Uso esperado del repositorio
-
-Este proyecto está pensado para publicarse en GitHub Pages como una página estática. La idea es que el dashboard pueda consultarse sin instalar dependencias locales, conservando una experiencia visual clara y ejecutiva. Si el repositorio se amplía, también puede evolucionar hacia una estructura más modular con separación de datos, componentes y documentación.
-
-## 📌 Estructura sugerida
-
-```text
-/
-├─ index.html
-├─ README.md
-├─ assets/
-├─ data/
-└─ images/
-```
+Implementar las líneas de acción integradas en los paneles de insights del dashboard será crucial para la estrategia municipal 2026-2028
 
 ## ✅ Nota final
 
